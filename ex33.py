@@ -1,0 +1,8 @@
+print("sandesh6460".isalnum())
+print("sandesh".isalnum())
+print("sandesh".islower())
+print("sandesh".isalnum())
+print("          ".isspace())
+print("6460".isdigit())
+print("SANDESh".isupper())
+print("Study Online".istitle())
